@@ -1,0 +1,17 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "Storypark cypress Automation",
+  "license": "ISC",
+  "author": "Rashmi Alagiyawanna",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "cypress": "^15.6.0",
+    "cypress-grep": "^3.0.4",
+    "cypress-xpath": "^2.0.1"
+  }
+}
